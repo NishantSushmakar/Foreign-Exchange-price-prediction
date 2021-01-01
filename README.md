@@ -28,3 +28,12 @@ the following five countries : India , China , Japan , United Kingdom and Brazil
 the results obtained.
 
 
+## Result
+We have taken mean absolute error as the metric for the model accuracy and analysed the results
+for five highest countries in terms of GDP India,China,UK,Japan and Brazil. Focus was to
+analyse the policy which have led to such trends and if any one of the models can be used for
+their exchange rates prediction. Table 1 shows the accuracy for each country on different models
+and thus the prediction depends on the policies of each country and inflow outflow of
+investments in the country . Results for each country are discussed in the subsections.
+
+
